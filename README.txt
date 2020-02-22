@@ -14,10 +14,6 @@ topo_dom.py. Script for annotating the topological domains from which N-terminal
 
 transmembranedistances.py. Script for calculating the distance between subtiligase-capture N termini and transmembrane domains. 
 
-Supplementary file.
-
-uniprot-human-2017.txt. A Uniprot flat file that can be used to run these scripts. 
-
 Notes. 
 
 Python scripts were run using Python 2.7 (www.python.org). All scripts include descriptive comments (marked by #) and headers with detailed instructions.
